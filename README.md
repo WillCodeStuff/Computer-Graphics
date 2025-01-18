@@ -1,6 +1,6 @@
 # Computer-Graphics
 
-This is a reository containing assignments/projects for a computer graphics course
+This is a repository containing assignments/projects for a computer graphics course
 
 ## Instructions to run assignment 1:
 - Download file

@@ -1,5 +1,5 @@
 # Project 1
-The Complete Ray Tracer (unfortunatly recating is not working properly :( )
+The Complete Ray Tracer (unfortunatly refracting is not working properly :( )
 ## Instructions to run the Project:
 - [Download file](https://github.com/WillCodeStuff/Computer-Graphics/blob/ea03a41731c026535c78afd788ff17335608c1e1/Ray%20Tracing/Project%201/Raytracing%20Project.ipynb)
 - open file using python Jupyter Notebook

@@ -1,7 +1,7 @@
 # Assignmen 2
 This Assignment updates the Ray Tracer to include lighting (ambient, directional, point)
 ## Instructions to run assignment 2:
-- Download file
+- [Download file](https://github.com/WillCodeStuff/Computer-Graphics/blob/30bd418ba035ee0a22452951d2789c31f52acc56/Ray%20Tracing/Assignment%202/Assignment%202.ipynb)
 - open file using python Jupyter Notebook
 - ensure all libraries are installed
 - Select 'Restart and run all'

@@ -7,5 +7,4 @@ This Assignment updates the Ray Tracer to include shadows and reflections
 - Select 'Restart and run all'
 - Image should appear after a couple minutes
 - Example image of the expected output is also included
-- ![screenshot](Computer-Graphics/Assignment 3
-/Assignmen 3.PNG.png)
+- ![alt text](https://github.com/WillCodeStuff/Computer-Graphics/Assignment_3/Assignment_3.PNG "Example image")

@@ -7,4 +7,4 @@ The Complete Ray Tracer (unfortunatly recating is not working properly :( )
 - Select 'Restart and run all'
 - Image should appear after a couple minutes
 - Example image of the expected output is also included
-- ![Example 4](https://github.com/WillCodeStuff/Computer-Graphics/blob/7c1471857a8cd0491e8dba1d248920b6c2c89546/Assignment%203/Assignment%203.PNG "Example image") 
+- ![Example 4](https://github.com/WillCodeStuff/Computer-Graphics/blob/a34cf9b60874a24f31e4932261de1886d02d6005/Project%201/Project%20Example%201.PNG)

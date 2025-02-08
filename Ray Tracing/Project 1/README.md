@@ -11,3 +11,5 @@ The Complete Ray Tracer (unfortunatly recating is not working properly :( )
 - ![Example 5](https://github.com/WillCodeStuff/Computer-Graphics/blob/5b57ca154b8120e5f13bcf29ab2f7c486e489334/Project%201/Project%20Example%202.PNG)
 ## Previous versions of the Ray tracer
 - [Model 1](https://github.com/WillCodeStuff/Computer-Graphics/blob/06b2b494939fe4cd656afe516a54d7f48c424491/Ray%20Tracing/Assignment%201/README.md)
+- [Model 2](https://github.com/WillCodeStuff/Computer-Graphics/blob/65770da0bbc9cb1d5a1d479923babf33ef743c43/Ray%20Tracing/Assignment%202/README.md)
+- [Model 3](https://github.com/WillCodeStuff/Computer-Graphics/blob/65770da0bbc9cb1d5a1d479923babf33ef743c43/Ray%20Tracing/Assignment%203/README.md)

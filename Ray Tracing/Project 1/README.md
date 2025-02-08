@@ -9,3 +9,5 @@ The Complete Ray Tracer (unfortunatly recating is not working properly :( )
 - Example image of the expected output is also included
 - ![Example 4](https://github.com/WillCodeStuff/Computer-Graphics/blob/a34cf9b60874a24f31e4932261de1886d02d6005/Project%201/Project%20Example%201.PNG)
 - ![Example 5](https://github.com/WillCodeStuff/Computer-Graphics/blob/5b57ca154b8120e5f13bcf29ab2f7c486e489334/Project%201/Project%20Example%202.PNG)
+### Previous versions of the Ray tracer
+- [Model 1](https://github.com/WillCodeStuff/Computer-Graphics/blob/06b2b494939fe4cd656afe516a54d7f48c424491/Ray%20Tracing/Assignment%201/README.md)

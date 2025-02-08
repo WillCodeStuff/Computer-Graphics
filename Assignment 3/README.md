@@ -1,6 +1,6 @@
 # Assignmen 3
 This Assignment updates the Ray Tracer to include shadows and reflections
-## Instructions to run assignment 1:
+## Instructions to run assignment 3:
 - Download file
 - open file using python Jupyter Notebook
 - ensure all libraries are installed

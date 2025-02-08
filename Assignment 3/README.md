@@ -1,4 +1,4 @@
-#Assignmen 3
+# Assignmen 3
 This Assignment updates the Ray Tracer to include shadows and reflections
 ## Instructions to run assignment 1:
 - Download file

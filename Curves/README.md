@@ -8,4 +8,5 @@ A Bezier Curve implemented in Shadertoy
 - Click compile
 - The curve will display on the page, the green control point's position can be changed by clicking anywhere on the canvas
 - Example image of the expected output is also included
-- ![Example 4](https://github.com/WillCodeStuff/Computer-Graphics/blob/a34cf9b60874a24f31e4932261de1886d02d6005/Project%201/Project%20Example%201.PNG)
+- ![image](https://github.com/user-attachments/assets/30b5184c-6164-4084-b4e7-07c231633140)
+
